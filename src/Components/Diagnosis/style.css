@@ -1,0 +1,12 @@
+.Container {
+  width: 820;
+  padding: 0%;
+}
+.InputHandle {
+  width: "245px";
+  height: "40px";
+}
+.InputData {
+  width: "145px";
+  height: "40px";
+}
